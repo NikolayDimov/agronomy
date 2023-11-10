@@ -1,4 +1,4 @@
-export default function sum(a, b) {
-    let result = a + b;
+export default function sum(a, b, c) {
+    let result = a + b + c;
     return result;
 }
