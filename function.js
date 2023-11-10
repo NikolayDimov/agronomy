@@ -3,7 +3,7 @@ export default function sum(a, b, c) {
     return result;
 }
 
-export default function minus(a, b) {
-    let result = a - b;
+export default function multiolied(a, b) {
+    let result = a * b;
     return result;
 }
